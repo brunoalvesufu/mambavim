@@ -47,7 +47,7 @@ With **which-key** active, you'll never have to guess your bindings again.
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/MambaVim ~/.config/nvim
+git clone https://github.com/brunoalvesufu/MambaVim ~/.config/nvim
 nvim
 ```
 Run :Lazy to install plugins, and you’re good to go.
